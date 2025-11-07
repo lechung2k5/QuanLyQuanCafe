@@ -1,0 +1,83 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BillPanel",
+            "request": "launch",
+            "mainClass": "UI.BillPanel",
+            "projectName": "BTL_QuanLyCafe"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "UI.Login",
+            "projectName": "BTL_QuanLyCafe"
+        },
+        {
+            "type": "java",
+            "name": "MainApp",
+            "request": "launch",
+            "mainClass": "UI.MainApp",
+            "projectName": "BTL_QuanLyCafe"
+        },
+        {
+            "type": "java",
+            "name": "ProductPanel",
+            "request": "launch",
+            "mainClass": "UI.ProductPanel",
+            "projectName": "BTL_QuanLyCafe"
+        },
+        {
+            "type": "java",
+            "name": "SellPanel",
+            "request": "launch",
+            "mainClass": "UI.SellPanel",
+            "projectName": "BTL_QuanLyCafe"
+        },
+        {
+            "type": "java",
+            "name": "StaffPanel",
+            "request": "launch",
+            "mainClass": "UI.StaffPanel",
+            "projectName": "BTL_QuanLyCafe"
+        }
+    ]
+}

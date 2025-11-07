@@ -1,0 +1,22 @@
+#Bàn 06
+orderId=HD036
+trangThai=Chưa giao
+tongTien=0 VNĐ
+thoiGian=05:29 PM
+hinhThuc=Tại quán
+soDienThoai=Không có
+soBan=Bàn 06
+details=Trà sữa phô mai, Size: L, SL: 1, Giá: 38000.0
+details=Trà sữa thái xanh, Size: L, SL: 2, Giá: 34000.0
+details=Trà sữa socola, Size: M, SL: 1, Giá: 36000.0
+#Bàn 06
+orderId=HD036
+trangThai=Chưa giao
+tongTien=0 VNĐ
+thoiGian=05:29 PM
+hinhThuc=Tại quán
+soDienThoai=Không có
+soBan=Bàn 06
+details=Trà sữa thái xanh, Size: L, SL: 2, Giá: 34000.0
+details=Trà sữa socola, Size: M, SL: 1, Giá: 36000.0
+details=Trà sữa phô mai, Size: L, SL: 1, Giá: 38000.0
